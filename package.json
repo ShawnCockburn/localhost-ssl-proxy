@@ -18,6 +18,6 @@
   "scripts": {
     "start": "nodemon",
     "setup": "sudo ./gen_ssl_key.sh && yarn install",
-    "proxy": "ts-node src/index.ts"
+    "proxy": "./proxyStartup.sh"
   }
 }

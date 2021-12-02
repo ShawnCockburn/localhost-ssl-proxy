@@ -1,0 +1,1 @@
+TARGET_PORT=$1 ts-node src/index.ts
