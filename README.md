@@ -6,4 +6,4 @@ to use:
 
 then
 
-`yarn start`
+`yarn proxy [port]`
