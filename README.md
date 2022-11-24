@@ -2,6 +2,8 @@
 
 to use:
 
+`yarn` (install deps)
+
 `yarn setup`
 
 then
